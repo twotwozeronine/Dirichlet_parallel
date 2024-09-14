@@ -1,0 +1,12 @@
+Эксперимент 10 (u = 10.0 * pow(x, 5) * y + 20.0 * pow(y, 5))
+
+N: 100, Threads: 1, Problem: 10, Time: 0.005000 sec, Iterations: 23
+N: 300, Threads: 1, Problem: 10, Time: 0.083000 sec, Iterations: 47
+N: 500, Threads: 1, Problem: 10, Time: 0.225000 sec, Iterations: 61
+N: 1000, Threads: 1, Problem: 10, Time: 1.013000 sec, Iterations: 80
+N: 3000, Threads: 1, Problem: 10, Time: 12.642000 sec, Iterations: 101
+N: 100, Threads: 4, Problem: 10, Time: 0.009000 sec, Iterations: 23
+N: 300, Threads: 4, Problem: 10, Time: 0.062000 sec, Iterations: 47
+N: 500, Threads: 4, Problem: 10, Time: 0.157000 sec, Iterations: 61
+N: 1000, Threads: 4, Problem: 10, Time: 1.060000 sec, Iterations: 80
+N: 3000, Threads: 4, Problem: 10, Time: 7.111000 sec, Iterations: 101

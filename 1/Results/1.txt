@@ -1,0 +1,13 @@
+Эксперимент 1 (u = x + y)
+
+N: 100, Threads: 1, Problem: 1, Time: 0.002000 sec, Iterations: 9
+N: 300, Threads: 1, Problem: 1, Time: 0.009000 sec, Iterations: 9
+N: 500, Threads: 1, Problem: 1, Time: 0.040000 sec, Iterations: 10
+N: 1000, Threads: 1, Problem: 1, Time: 0.131000 sec, Iterations: 10
+N: 3000, Threads: 1, Problem: 1, Time: 1.258000 sec, Iterations: 10
+N: 100, Threads: 4, Problem: 1, Time: 0.002000 sec, Iterations: 9
+N: 300, Threads: 4, Problem: 1, Time: 0.012000 sec, Iterations: 9
+N: 500, Threads: 4, Problem: 1, Time: 0.027000 sec, Iterations: 10
+N: 1000, Threads: 4, Problem: 1, Time: 0.093000 sec, Iterations: 10
+N: 3000, Threads: 4, Problem: 1, Time: 1.137000 sec, Iterations: 10
+

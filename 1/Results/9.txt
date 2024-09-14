@@ -1,0 +1,12 @@
+Эксперимент 9 (u = 10.0 * pow(x, 4) * y + 20.0 * pow(y, 4))
+
+N: 100, Threads: 1, Problem: 9, Time: 0.014000 sec, Iterations: 78
+N: 300, Threads: 1, Problem: 9, Time: 0.454000 sec, Iterations: 101
+N: 500, Threads: 1, Problem: 9, Time: 0.382000 sec, Iterations: 106
+N: 1000, Threads: 1, Problem: 9, Time: 1.426000 sec, Iterations: 111
+N: 3000, Threads: 1, Problem: 9, Time: 13.654000 sec, Iterations: 114
+N: 100, Threads: 4, Problem: 9, Time: 0.023000 sec, Iterations: 78
+N: 300, Threads: 4, Problem: 9, Time: 0.112000 sec, Iterations: 101
+N: 500, Threads: 4, Problem: 9, Time: 0.248000 sec, Iterations: 106
+N: 1000, Threads: 4, Problem: 9, Time: 0.863000 sec, Iterations: 111
+N: 3000, Threads: 4, Problem: 9, Time: 8.482000 sec, Iterations: 114

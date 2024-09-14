@@ -1,0 +1,12 @@
+Эксперимент 8 (u = 1000.0 * pow(x, 3) + 2000.0 * pow(y, 3))
+
+N: 100, Threads: 1, Problem: 8, Time: 0.018000 sec, Iterations: 83
+N: 300, Threads: 1, Problem: 8, Time: 0.149000 sec, Iterations: 103
+N: 500, Threads: 1, Problem: 8, Time: 0.338000 sec, Iterations: 108
+N: 1000, Threads: 1, Problem: 8, Time: 1.394000 sec, Iterations: 112
+N: 3000, Threads: 1, Problem: 8, Time: 14.490000 sec, Iterations: 114
+N: 100, Threads: 4, Problem: 8, Time: 0.023000 sec, Iterations: 83
+N: 300, Threads: 4, Problem: 8, Time: 0.130000 sec, Iterations: 103
+N: 500, Threads: 4, Problem: 8, Time: 0.246000 sec, Iterations: 108
+N: 1000, Threads: 4, Problem: 8, Time: 0.885000 sec, Iterations: 112
+N: 3000, Threads: 4, Problem: 8, Time: 7.990000 sec, Iterations: 114

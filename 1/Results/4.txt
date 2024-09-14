@@ -1,0 +1,12 @@
+Эксперимент 4 (u = sin(x) * cos(y) + x * y)
+
+N: 100, Threads: 1, Problem: 4, Time: 0.179000 sec, Iterations: 1658
+N: 300, Threads: 1, Problem: 4, Time: 2.545000 sec, Iterations: 2636
+N: 500, Threads: 1, Problem: 4, Time: 13.269000 sec, Iterations: 3122
+N: 1000, Threads: 1, Problem: 4, Time: 46.863000 sec, Iterations: 3673
+N: 3000, Threads: 1, Problem: 4, Time: 512.146000 sec, Iterations: 4183
+N: 100, Threads: 4, Problem: 4, Time: 0.365000 sec, Iterations: 1658
+N: 300, Threads: 4, Problem: 4, Time: 2.962000 sec, Iterations: 2636
+N: 500, Threads: 4, Problem: 4, Time: 7.270000 sec, Iterations: 3122
+N: 1000, Threads: 4, Problem: 4, Time: 31.189000 sec, Iterations: 3673
+N: 3000, Threads: 4, Problem: 4, Time: 285.645000 sec, Iterations: 4183

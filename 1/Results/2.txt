@@ -1,0 +1,12 @@
+Эксперимент 2 (u = x * x + y * y)
+
+N: 100, Threads: 1, Problem: 2, Time: 0.003000 sec, Iterations: 28
+N: 300, Threads: 1, Problem: 2, Time: 0.047000 sec, Iterations: 30
+N: 500, Threads: 1, Problem: 2, Time: 0.100000 sec, Iterations: 30
+N: 1000, Threads: 1, Problem: 2, Time: 0.419000 sec, Iterations: 31
+N: 3000, Threads: 1, Problem: 2, Time: 4.244000 sec, Iterations: 31
+N: 100, Threads: 4, Problem: 2, Time: 0.007000 sec, Iterations: 28
+N: 300, Threads: 4, Problem: 2, Time: 0.039000 sec, Iterations: 30
+N: 500, Threads: 4, Problem: 2, Time: 0.079000 sec, Iterations: 30
+N: 1000, Threads: 4, Problem: 2, Time: 0.249000 sec, Iterations: 31
+N: 3000, Threads: 4, Problem: 2, Time: 2.072000 sec, Iterations: 31

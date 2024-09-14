@@ -1,0 +1,12 @@
+Эксперимент 5 (u = 1000.0 * pow(x, 3) * y - 2000.0 * pow(y, 4) + 500.0 * pow(y, 3) + pow(x, 2) * pow(y, 3) - 700 * x + 250 * y)
+
+N: 100, Threads: 1, Problem: 5, Time: 0.020000 sec, Iterations: 89
+N: 300, Threads: 1, Problem: 5, Time: 0.143000 sec, Iterations: 106
+N: 500, Threads: 1, Problem: 5, Time: 0.326000 sec, Iterations: 110
+N: 1000, Threads: 1, Problem: 5, Time: 1.392000 sec, Iterations: 113
+N: 3000, Threads: 1, Problem: 5, Time: 14.638000 sec, Iterations: 115
+N: 100, Threads: 4, Problem: 5, Time: 0.024000 sec, Iterations: 89
+N: 300, Threads: 4, Problem: 5, Time: 0.118000 sec, Iterations: 106
+N: 500, Threads: 4, Problem: 5, Time: 0.249000 sec, Iterations: 110
+N: 1000, Threads: 4, Problem: 5, Time: 0.929000 sec, Iterations: 113
+N: 3000, Threads: 4, Problem: 5, Time: 7.877000 sec, Iterations: 115

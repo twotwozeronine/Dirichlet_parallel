@@ -1,0 +1,12 @@
+Эксперимент 3 (u = exp(x + y))
+
+N: 100, Threads: 1, Problem: 3, Time: 0.004000 sec, Iterations: 7
+N: 300, Threads: 1, Problem: 3, Time: 0.028000 sec, Iterations: 7
+N: 500, Threads: 1, Problem: 3, Time: 0.070000 sec, Iterations: 7
+N: 1000, Threads: 1, Problem: 3, Time: 0.247000 sec, Iterations: 7
+N: 3000, Threads: 1, Problem: 3, Time: 2.579000 sec, Iterations: 7
+N: 100, Threads: 4, Problem: 3, Time: 0.055000 sec, Iterations: 7
+N: 300, Threads: 4, Problem: 3, Time: 0.026000 sec, Iterations: 7
+N: 500, Threads: 4, Problem: 3, Time: 0.066000 sec, Iterations: 7
+N: 1000, Threads: 4, Problem: 3, Time: 0.221000 sec, Iterations: 7
+N: 3000, Threads: 4, Problem: 3, Time: 1.859000 sec, Iterations: 7

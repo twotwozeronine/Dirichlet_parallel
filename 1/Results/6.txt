@@ -1,0 +1,12 @@
+Эксперимент 6 (u = 10.0 * pow(x, 3) * y + 20.0 * pow(y, 3))
+
+N: 100, Threads: 1, Problem: 6, Time: 0.117000 sec, Iterations: 562
+N: 300, Threads: 1, Problem: 6, Time: 0.991000 sec, Iterations: 857
+N: 500, Threads: 1, Problem: 6, Time: 2.556000 sec, Iterations: 946
+N: 1000, Threads: 1, Problem: 6, Time: 14.499000 sec, Iterations: 1021
+N: 3000, Threads: 1, Problem: 6, Time: 132.416000 sec, Iterations: 1076
+N: 100, Threads: 4, Problem: 6, Time: 0.148000 sec, Iterations: 562
+N: 300, Threads: 4, Problem: 6, Time: 0.801000 sec, Iterations: 857
+N: 500, Threads: 4, Problem: 6, Time: 2.079000 sec, Iterations: 946
+N: 1000, Threads: 4, Problem: 6, Time: 8.624000 sec, Iterations: 1021
+N: 3000, Threads: 4, Problem: 6, Time: 72.749000 sec, Iterations: 1076
