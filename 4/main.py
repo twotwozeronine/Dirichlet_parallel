@@ -69,17 +69,6 @@ def compute_allowable_error(N, lambda_):
 
 # Численный эксперимент с распараллеливанием
 def run_experiment_parallel(lambdas, N_values, n_jobs=-1):
-    """
-    Запуск численного эксперимента с использованием параллельных вычислений.
-
-    Args:
-        lambdas (list): Список значений параметра lambda.
-        N_values (list): Список значений числа элементов N.
-        n_jobs (int): Количество параллельных задач. По умолчанию -1, что означает использование всех доступных ядер.
-
-    Returns:
-        results (list): Список кортежей (lambda, N, error, allowable_error, status).
-    """
     tasks = [(lambda_, N) for lambda_ in lambdas for N in N_values]
     
     start_time = time.time()
@@ -103,16 +92,6 @@ def run_experiment_parallel(lambdas, N_values, n_jobs=-1):
 
 # Численный эксперимент без распараллеливания для сравнения
 def run_experiment_serial(lambdas, N_values):
-    """
-    Запуск численного эксперимента без использования параллельных вычислений.
-
-    Args:
-        lambdas (list): Список значений параметра lambda.
-        N_values (list): Список значений числа элементов N.
-
-    Returns:
-        results (list): Список кортежей (lambda, N, error, allowable_error, status).
-    """
     results = []
     start_time = time.time()
     
